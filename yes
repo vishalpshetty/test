@@ -1,0 +1,42 @@
+[33mcommit bd1e060158d810683377b1bcfa73a5c9a5cf12e5[m[33m ([m[1;36mHEAD -> [m[1;32mbranch2[m[33m)[m
+Author: vishal <vishal.pattanashetty@oracle.com>
+Date:   Thu Feb 7 12:08:22 2019 +0530
+
+    yo
+
+[33mcommit 6f41f0449da9291b9a188754914f356bdfc42c57[m
+Author: vishal <vishal.pattanashetty@oracle.com>
+Date:   Thu Feb 7 12:00:36 2019 +0530
+
+    conflict
+
+[33mcommit eeaaf0ec629c48f46f5295eb5b1d83d11caf9480[m
+Author: vishal <vishal.pattanashetty@oracle.com>
+Date:   Thu Feb 7 11:58:18 2019 +0530
+
+    tt
+
+[33mcommit 4c71d33f4fd7a92af7abb07492c0088f6a8e9078[m
+Merge: 9fde8c4 2d5d70e
+Author: vishal <vishal.pattanashetty@oracle.com>
+Date:   Thu Feb 7 11:53:51 2019 +0530
+
+    okMerge branch 'branch1'
+
+[33mcommit 2d5d70e083d76221bb6d883728e97e80ac6e85e0[m
+Author: vishal <vishal.pattanashetty@oracle.com>
+Date:   Thu Feb 7 11:52:49 2019 +0530
+
+    three
+
+[33mcommit 9fde8c4016e92a3b45701bbda26992f1683b72fc[m
+Author: vishal <vishal.pattanashetty@oracle.com>
+Date:   Thu Feb 7 11:49:34 2019 +0530
+
+    second
+
+[33mcommit 9c58c5ca660a393b1d3272afc4eaa76c006bbcf4[m
+Author: vishal <vishal.pattanashetty@oracle.com>
+Date:   Thu Feb 7 11:18:27 2019 +0530
+
+    first# Please enter the commit message for your changes. Lines starting
